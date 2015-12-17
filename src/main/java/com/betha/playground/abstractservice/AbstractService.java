@@ -19,7 +19,7 @@ public abstract class AbstractService {
 
     private static final String BASE_URL = "http://e-gov.betha.com.br/arrecadacao-conversao-services/rest/conversao";
     private static final String CONSULTA_URL = "/consultas/registros";
-    private static final String TOKEN_BEARER = "Bearer 9f960617-4c1a-49fe-8ac5-e50cf9629af4";
+    private static final String TOKEN_BEARER = "Bearer <colocar seu token aqui>";
 
     public abstract String servico();
 
