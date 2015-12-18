@@ -1,5 +1,5 @@
 # conversaobetha
-Repositório com exemplo de envio de dados para os serviços de conversão betha. Está utilizando JAVA / Spring-boot / AngularJS.
+Repositório com exemplo de envio de dados para os serviços de conversão betha. Está utilizando JAVA JDK1.8 / Spring-boot / AngularJS.
 
 O token deve ser informado na classe: src/main/java/com/betha/playground/abstractservice/AbstractService.java
 
