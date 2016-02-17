@@ -1,0 +1,18 @@
+[
+    {
+        "id": "123456",
+        "criterio": {
+            "nome" : "Fulano de tal - Teste"
+        },
+        "nome": "Fulano de tal - Teste",
+        "tipoPessoa": "O"
+    },
+	{
+        "id": "1234567",
+        "criterio": {
+            "nome" : "Fulano de tal 2"
+        },
+        "nome": "Fulano de tal 2",
+        "tipoPessoa": "O"
+    }
+]
