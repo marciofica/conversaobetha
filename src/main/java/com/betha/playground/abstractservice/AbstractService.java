@@ -17,9 +17,10 @@ import java.util.Map;
  */
 public abstract class AbstractService {
 
-    private static final String BASE_URL = "http://e-gov.betha.com.br/arrecadacao-conversao-services/rest/conversao";
+//    private static final String BASE_URL = "http://e-gov.betha.com.br/arrecadacao-conversao-services/rest/conversao";
+    private static final String BASE_URL = "http://e-gov.betha.com.br/conversion-services/api";
     private static final String CONSULTA_URL = "/consultas/registros";
-    private static final String TOKEN_BEARER = "Bearer <colocar seu token aqui>";
+    private static final String TOKEN_BEARER = "Bearer 237f3e24-4af0-47a3-b2df-15fddc8ed86a";
 
     public abstract String servico();
 

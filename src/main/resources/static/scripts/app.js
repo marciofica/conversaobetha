@@ -28,6 +28,10 @@ angular
         templateUrl: 'views/competencias.html',
         controller: 'CompetenciasCtrl'
       })
+        .when('/prestadores', {
+          templateUrl: 'views/prestadores.html',
+          controller: 'PrestadoresCtrl'
+        })
       .otherwise({
         redirectTo: '/'
       });
